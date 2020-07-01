@@ -1,0 +1,37 @@
+<h1>Title</h1>
+<style type="text/css">
+ td, th {border: 1px solid #E03B18; }
+ table {border: 1px solid cyan; }
+</style>
+
+<table>
+  <caption>Your content here</caption>
+  <colgroup><colgroup>
+  <colgroup span="4"></colgroup>
+ <head>
+ <tr>
+  <th rowspan="5">&nbsp;</th>
+  <th colspan="5">A common header for two subheads</th>
+  </tr>
+<tr>
+  <th>Header 1</th>
+  <th>Header 2</th>
+  <th>Header 3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+ <th scope="row"> Thing A</th>
+ <th scope="row"> Data A1</th>
+ <th scope="row"> Data A2</th>
+ <th scope="row"> Data A3</th>
+<tr>
+ <th scope="row"> Thing B</th>
+ <th scope="row"> Data B1</th>
+ <th scope="row"> Data B2</th>
+ <th scope="row"> Data B3</th>
+<tr>
+ <th scope="row"> Thing C</th>
+ <th scope="row"> Data C1</th>
+ <th scope="row"> Data C2</th>
+ <th scope="row"> Data C3</th>
