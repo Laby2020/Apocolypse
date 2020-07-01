@@ -7,7 +7,6 @@
  
  <colgroup><colgroup>
 <head>
-<tr>
  <th rowspan="8">&nbsp;</th>
  <th colspan="7">
  <tr>
