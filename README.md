@@ -6,7 +6,6 @@
  <caption>Choose Your Fighter</caption>
  
  <colgroup><colgroup>
- <colgroup span="3"<colgroup>
 <head>
 <tr>
  <th rowspan="8">&nbsp;</th>
