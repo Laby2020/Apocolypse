@@ -2,19 +2,11 @@
 <html>
 <body>
 
-<h2>Survival Characters</h2>
 
-<style type="text/css">
- 
-td, th {border: 5px solid #E03B18; }
- table {border: 6px solid black; }
-</style>
- <style>
-    body { background-color: #18E0DB;}
-  </style>
 
 <table>
  <caption>Choose Your Fighter</caption>
+ 
  <colgroup><colgroup>
  <colgroup span="3"<colgroup>
 <head>
